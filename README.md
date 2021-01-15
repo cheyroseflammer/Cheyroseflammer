@@ -14,7 +14,7 @@ I'm currently a student at Thinkful studying software engineering. I am a web de
 - Postgres
 - NodeJS
 - Express 
-- JavaScript.  
+- JavaScript  
 <!--
 
 <!--
