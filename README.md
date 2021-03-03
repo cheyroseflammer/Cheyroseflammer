@@ -5,7 +5,7 @@
 ### About Me
 
 
-I'm currently a student at Thinkful studying software engineering. I am a web developer in the making you could say. I enjoy making and deploying web applications. Below you will see a little bit about me, my portfolio and a way to contact me! Happy scrolling!
+Recent graduate from Thinkful. Software Engineer using Javascript/React/Node.js/PostgreSQL/jQuery..
 
 ---
 ### Expertise:
