@@ -5,7 +5,7 @@
 ### About Me
 
 
-Recent graduate from Thinkful. Software Engineer using Javascript/React/Node.js/PostgreSQL/jQuery..
+Recent graduate from Thinkful based out of Joshua Tree. I am a creative web developer dedicated to developing interactive, user-friendly, and feature-rich websites. I have 1 year of experience in leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions.
 
 ---
 ### Expertise:
