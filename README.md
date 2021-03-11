@@ -15,6 +15,13 @@ Recent graduate from Thinkful based out of Joshua Tree. I am a creative web deve
 - NodeJS
 - Express 
 - JavaScript  
+
+### Studying:
+- Python
+- Django
+- MongoDB
+- D3.js
+
 <!--
 
 <!--
