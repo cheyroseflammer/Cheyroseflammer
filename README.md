@@ -11,14 +11,13 @@ Recent graduate from Thinkful based out of Joshua Tree. I am a creative web deve
 ### Expertise:
 - HTML & CSS
 - React
-- Postgres
 - NodeJS
-- Express 
 - JavaScript  
 - Excel
+- SQL
+- Python
 
 ### Studying:
-- Python
 - Django
 - MongoDB
 - D3.js
