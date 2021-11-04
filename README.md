@@ -55,7 +55,7 @@
 
 <!-- Stat Cards -->
 <a href="https://github.com/cheyroseflammer/github-readme-stats">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=cheyroseflammer&count_private=true&hide=stars&show_icons=true&theme=highcontrast" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=cheyroseflammer&count_private=true&hide=stars&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/cheyroseflammer/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheyroseflammer&layout=compact&theme=highcontrast" />
