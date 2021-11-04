@@ -58,6 +58,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheyroseflammer&count_private=true&hide=stars&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/cheyroseflammer/github-readme-stats">
-  <img align="center" style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheyroseflammer&layout=compact&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheyroseflammer&layout=compact&theme=highcontrast" />
 </a>
 
