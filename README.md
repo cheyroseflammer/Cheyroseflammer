@@ -54,12 +54,12 @@
 </p>
 
 <!-- Stat Cards -->
-<p align="center">
+
   <a href="https://github.com/cheyroseflammer/github-readme-stats">
     <img align="left" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=cheyroseflammer&count_private=true&hide=stars&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/cheyroseflammer/github-readme-stats">
     <img align="right" style="height:170px; width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheyroseflammer&layout=compact&theme=highcontrast" />
   </a>
-</p>
+
 
