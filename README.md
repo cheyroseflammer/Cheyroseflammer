@@ -1,5 +1,5 @@
 <!-- Header Img -->
-<!-- <img src="images/header.jpg" width="95%" align="cemter"/> -->
+<img src="images/head.jpg" width="95%" align="cemter"/>
 
 <!-- Header -->
 <h1 align="center">Hi I'm Cheyenne</h1>
