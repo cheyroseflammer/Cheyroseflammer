@@ -8,7 +8,7 @@
 <!-- About me -->
 <h2 align="center">About me</h2>
 
-<p align="center">Hello my name is Chey. I'm a graduate of Thinkfuls Software Engineering Program and UCSD's Data Science and Visualization Course. I am a creative computer programmer dedicated to developing interactive, user-friendly, and feature-rich websites and dashbaords. I have 2 years of experience in leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions. Specializing in JavaScript, React, Data Analysis & Visualization with Python and SQL. I can provide technical knowledge and expertise and build stunning websites from start to finish.</p>
+<p align="center">Hello my name is Chey. I'm a graduate of Thinkfuls Software Engineering Program and UCSD's Data Science and Visualization Course. I am a creative computer programmer dedicated to developing interactive, user-friendly, and feature-rich websites and dashboards. I have 2 years of experience in leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions. Specializing in JavaScript, React, Data Analysis & Visualization with Python and SQL. I can provide technical knowledge and expertise and build stunning websites from start to finish.</p>
 
 <!-- Tech Header -->
 
